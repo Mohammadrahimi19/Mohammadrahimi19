@@ -6,7 +6,7 @@
 <a href='https://t.me/Rhimi_2'>
 <img src='https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white'/>
 </a>
-<a href="https://www.linkedin.com/in/MohammadRahimi">
+<a href="https://www.linkedin.com/in/Mohammad Rahimi">
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/>  
 </a>
 </div>
