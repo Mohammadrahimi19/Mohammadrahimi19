@@ -7,6 +7,7 @@
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your-linkedin-username)
 
 
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/>
 <h3>What do I know as a front-end developer?</h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,vue,vuetify,ts,nuxt,vite" />
 <hr/>
