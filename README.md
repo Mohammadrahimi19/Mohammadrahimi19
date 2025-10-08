@@ -14,8 +14,6 @@ I'm a passionate Web developer specializing in building modern web applications.
 <h3>What do I know as a front-end developer?</h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,vue,vuetify,ts,nuxt,vite" />
 <hr/>
-<h3>What do I know as a Back-end developer?</h3>
-<img src="https://skillicons.dev/icons?i=django,php,python,pycharm,redis,docker,git&theme=light" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohammadrahimi19&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
