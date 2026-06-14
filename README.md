@@ -12,7 +12,7 @@ I'm a passionate Web developer specializing in building modern web applications.
 # 💻 Tech Stack:
 
 <h3>What do I know as a front-end developer?</h3>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,vue,vuetify,ts,nuxt,vite" />
+<img src="https://skillicons.dev/icons?i=nuxt,js,tailwind,vue,ts,nuxt,vite" />
 <hr/>
 
 # 📊 GitHub Stats:
