@@ -8,6 +8,7 @@ I'm a passionate Web developer specializing in building modern web applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadrhimi1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadrhimi1)
 
 # 💻 Tech Stack:
 
